@@ -1,2 +1,4 @@
 .TF2_TOUCAN/
 .ipynb_checkpoints/
+gcp_env/
+*986.json
